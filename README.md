@@ -63,6 +63,7 @@ I have hands-on experience building **production-grade AI solutions** that scale
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral_AI-F5A623?style=flat&logo=mistralai&logoColor=white"/>
 </p>
 
 - Hugging Face Transformers
