@@ -34,7 +34,7 @@ I have hands-on experience building **production-grade AI solutions** that scale
 - Retrieval-Augmented Generation (RAG)
 - LangChain, Vector Databases (FAISS)
 - Prompt Engineering & Structured Extraction
-- CNNs, ResNet, YOLO
+- CNNs, ResNet, YOLO, Object Detection, Image Segmentation, Image Classification, Pose Detection
 - Model Quantization (4-bit, bf16)
 
 ---
