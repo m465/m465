@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Mutaal</h1>
 
 <h3 align="center">
-Generative AI Engineer | LLMs • RAG • AI Automation • Backend Systems
+Generative AI Engineer | Computer Vision • LLMs • RAG • AI Automation • Backend Systems
 </h3>
 
 <p align="center">
