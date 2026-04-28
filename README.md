@@ -5,7 +5,7 @@ Generative AI Engineer | Computer Vision • LLMs • RAG • AI Automation • 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+Engineer;LLMs+%7C+RAG+%7C+AI+Automation;Production-Grade+AI+Systems;Open+to+Remote+Opportunities&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Generative+AI+Engineer;LLMs+%7C+RAG+%7C+Computer+Vision;Production-Grade+AI+Systems;Open+to+Remote+Opportunities&center=true&width=650&height=45">
 </p>
 
 ---
