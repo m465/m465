@@ -18,7 +18,7 @@ I have hands-on experience building **production-grade AI solutions** that scale
 - 🚀 Built LLM systems handling **800+ conversations/day**
 - 🤖 Expertise in **LLM fine-tuning, RAG pipelines, and AI agents**
 - ⚙️ Strong backend & API engineering with **FastAPI**
-- 🌍 Open to **remote roles, AI engineering positions, and impactful projects**
+- 🌍 Open to **remote roles, AI, Computer Vision, Machine Learning engineering positions, and impactful projects**
 - 📍 Lahore, Pakistan
 
 ---
