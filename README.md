@@ -12,7 +12,7 @@ Generative AI Engineer | Computer Vision • LLMs • RAG • AI Automation • 
 
 ## 👨‍💻 Professional Summary
 
-I am a **Generative AI Engineer** specializing in **LLMs, Retrieval-Augmented Generation (RAG), AI automation, and backend systems**.  
+I am a **Generative AI Engineer** specializing in **LLMs, Retrieval-Augmented Generation (RAG), Computer Vision, and backend systems**.  
 I have hands-on experience building **production-grade AI solutions** that scale, integrate with real-world systems, and deliver measurable business impact.
 
 - 🚀 Built LLM systems handling **800+ conversations/day**
