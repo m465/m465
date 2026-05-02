@@ -157,7 +157,7 @@ FAST NUCES — *Sep 2021 – Jun 2025*
 
 ## 📫 Contact
 
-- 📧 Email: amutaal64@gmail.com  
+- 📧 Email: abdul.mutaal7362@gmail.com  
 - 💼 LinkedIn: [abdulmutaal](http://www.linkedin.com/in/abdul-mutaal-22aa6b237)  
 - 🧑‍💻 GitHub: https://github.com/m465  
 
